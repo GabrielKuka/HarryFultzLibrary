@@ -1,0 +1,23 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.libraryhf.libraryharryfultz.activity.Fragments.Tab1Books">
+
+    <TextView
+        android:id="@+id/noBooksTextViewId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:visibility="gone"
+        android:text="@string/noBooksFound"
+        android:textColor="@color/black" />
+
+    <android.support.v7.widget.ListViewCompat
+        android:id="@+id/bookResulstId"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp" />
+
+</LinearLayout>

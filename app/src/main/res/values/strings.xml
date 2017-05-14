@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Harry Fultz Library</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_recover_account">Harruat fjalëkalimin?</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+    <string name="title_activity_navigation">Navigation</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    // Navigation drawer strings
+    <string name="profile">Profili</string>
+    <string name="website">Website</string>
+    <string name="settings">Konfigurime</string>
+    <string name="logout">Dil</string>
+    <string name="title_activity_settings">Opsione</string>
+    <string name="aboutus">Rreth nesh</string>
+
+    <string name="deleteAccount">Fshij llogarinë</string>
+    <string name="deleteAccountMessageDialog">Jeni i sigurt që doni të fshini llogarinë?</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">Kryesore</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_fullname">Emri i plotë</string>
+    <string name="pref_default_fullname">John Smith</string>
+
+    <string name="pref_title_password">Fjalëkalimi</string>
+
+    <string name="pref_title_email">Adresa email</string>
+    <string name="pref_default_email">gabrie.kuka@gmail.com</string>
+
+    <string name="pref_title_class">Klasa</string>
+    <string name="pref_default_class">IV-3</string>
+
+    <string name="pref_title_age">Mosha</string>
+    <string name="pref_default_age">18</string>
+
+
+    <string name="pref_header_others">Të tjera</string>
+
+    <string name="logOutAccountDialog">Jeni i sigurt që doni të dilni nga llogaria?</string>
+    <string name="title_activity_about_us">AboutUs</string>
+    <string name="searchViewHint">Kërko një libër...</string>
+    <string name="bookNotFound">Libri nuk u gjet.</string>
+    <string name="dummyText">Dummy Text</string>
+    <string name="borrowText">Huazo këtë libër</string>
+    <string name="deleteSearchHistory">Fshij historinë e kërkimit</string>
+    <string name="descriptionHeader">Përshkrimi</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="bookRequestResend">Jeni i sigurt që doni të dërgoni kërkesë për librin?</string>
+    <string name="noRequests">Nuk ka kërkesa</string>
+
+
+    // Gabriel KUKA data
+    <string name="gabriel">Gabriel KUKA</string>
+    <string name="gabriel_linkedInUrl">LinkedIn: linkedin.com/in/gabrielkuka</string>
+    <string name="gabriel_email">Email: gabrie.kuka@gmail.com</string>
+    <string name="gabriel_gitHubUrl">Github: github.com/GabrielKuka</string>
+    <string name="gabriel_phoneNumber">Nr. Cel: +355698567597</string>
+
+
+    // Orges MIHAJ data
+    <string name="orges">Orges MIHAJ</string>
+    <string name="orges_linkedInUrl">LinkedIn: linkedin.com/in/orgesmihaj</string>
+    <string name="orges_email">Email: orges.mihaj@hotmail.com</string>
+    <string name="orges_gitHubUrl">Github: github.com/OrgesMihaj</string>
+    <string name="orges_phoneNumber">Nr. Cel: +355696600199</string>
+
+    <string name="kerkesa">Kërkesa</string>
+    <string name="huazime">Huazime</string>
+    <string name="mohime">Të mohuara</string>
+    <string name="hfInstitute">Instituti Harry T. Fultz</string>
+    <string name="contributers">Programuesit</string>
+    <string name="title_activity_search_results">Rezultati i kërkimit</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="noBooksFound">Nuk u gjet asnjë libër</string>
+    <string name="noAuthorsFound">Nuk u gjet asnjë autor</string>
+    <string name="changePassword">Ndrysho fjalëkalimin</string>
+    <string name="actualPw">Fjalëkalimi ekzistues</string>
+    <string name="newPw">Fjalëkalimi i ri</string>
+    <string name="newPwAgain">Pësërisni fjalëkalimin e ri</string>
+    <string name="goOn">Vazhdo</string>
+    <string name="enterEmail">Fusni adresën email</string>
+    <string name="randomBookHeaderText">Libra të rekomanduar</string>
+    <string name="favorites">Të preferuara</string>
+    <string name="seeAll">Të gjitha</string>
+    <string name="recentBookHeaderText">Libra më të kërkuar</string>
+    <string name="similarBooksText">Libra të ngjashëm</string>
+    <string name="enterCode">Fusni kodin e aktivizimit</string>
+
+</resources>

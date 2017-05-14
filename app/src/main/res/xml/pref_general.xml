@@ -1,0 +1,52 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="Llogaria">
+
+        <Preference
+            android:defaultValue="@string/pref_default_email"
+            android:key="emailKey"
+            android:maxLines="1"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="@string/pref_title_email" />
+
+        <Preference
+            android:inputType="textPassword"
+            android:key="passwordKey"
+            android:maxLines="1"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="@string/pref_title_password" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Të dhëna personale">
+
+        <Preference
+            android:capitalize="words"
+            android:inputType="textCapWords"
+            android:key="fullnameKey"
+            android:maxLines="1"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="@string/pref_title_fullname" />
+
+        <Preference
+            android:defaultValue="@string/pref_default_class"
+            android:key="classKey"
+            android:maxLines="1"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="@string/pref_title_class" />
+
+        <Preference
+            android:defaultValue="@string/pref_default_age"
+            android:inputType="numberDecimal"
+            android:key="ageKey"
+            android:maxLines="1"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="@string/pref_title_age" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/parent_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="45dp"
+    android:layout_marginEnd="0dp"
+    android:layout_marginStart="0dp"
+    android:background="@color/colorAccent"
+    android:gravity="center_vertical">
+
+    <LinearLayout
+        android:id="@+id/linearLayoutItemId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/bookTitleCardId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:layout_marginBottom="10dp"
+            android:layout_marginStart="6dp"
+            android:layout_marginTop="10dp"
+            android:padding="5dp"
+            android:text="@string/dummyText"
+            android:textColor="@color/white"
+            android:textSize="22sp" />
+
+        <android.support.v7.widget.LinearLayoutCompat
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_marginStart="9dp"
+            android:layout_weight="7"
+            android:orientation="horizontal">
+
+            <android.support.v7.widget.AppCompatImageView
+                android:layout_width="16dp"
+                android:layout_height="16dp"
+                android:layout_marginTop="1dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/writer_icon" />
+
+            <TextView
+                android:id="@+id/bookAuthorCardId"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_weight="6"
+                android:text="@string/dummyText"
+                android:textColor="@color/white"
+                android:textSize="13sp" />
+
+        </android.support.v7.widget.LinearLayoutCompat>
+    </LinearLayout>
+
+
+    <ImageView
+        android:id="@+id/bookImageCardId"
+        android:layout_width="250dp"
+        android:layout_height="400dp"
+        android:layout_below="@+id/linearLayoutItemId"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="15dp"
+        android:background="@color/colorAccent"
+        tools:ignore="ContentDescription" />
+
+
+</RelativeLayout>
