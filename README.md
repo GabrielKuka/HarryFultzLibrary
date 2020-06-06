@@ -31,7 +31,7 @@ User puts email and password associated with his/her library school account.
 </dl>
 </dd>
 
-At the user's newsfeed available books of the library will be shown. Scrolling down will make newsfeed load even more books as the user browses. Special fragments are also shown to help the user find books quickly. Such fragments include "Recommended books", "Most searched books". On the left side user can swipe to show the navigation drawer where he/she can access other data like user's profile, settings, web version of the app etc. At the top of the page, there is a section with all the available categories the user can browse.
+At the user's newsfeed available books of the library will be shown. Scrolling down will load even more books as the user browses. Special fragments are also shown to help the user find books quickly. Such fragments include "Recommended books", "Most searched books". On the left side user can swipe to show the navigation drawer where he/she can access other data like user's profile, settings, web version of the app etc. At the top of the page, there is a section with all the available categories the user can browse.
 
 &nbsp;
 
@@ -47,7 +47,7 @@ At the user's newsfeed available books of the library will be shown. Scrolling d
 </dl>
 </dd>
 
-Users can make use of search option. Here everyone can search about books they like to check or even authors. Suggestions will pop up while the user types the name of the book/author. Also he/she can look at a more detailed search result.
+Users can search about books they like to check or even authors. Suggestions will pop up while the user types the name of the book/author.
 &nbsp;
 
 ### User profile
@@ -64,7 +64,7 @@ Users can make use of search option. Here everyone can search about books they l
 </dl>
 </dd>
 
-Each student in the school owns a profile. At the profile basic data of the user will be shown like: Username, email, date of birth etc. The profile is composed of three main tabs: Borrowed books, denied books and requested books. At the first tab, all the books that user has borrowed will be shown. At the second tab, books that were denied by the administrator to be borrowed will be shown. At the third tab, books that the student has requested to borrow but has yet to receive an answer will be shown.
+Each student in the school owns a profile. The profile page shows basic information like: Username, email, date of birth etc. The profile is composed of three main tabs: Borrowed books, denied books and requested books. At the first tab, all the books that user has borrowed will be shown. At the second tab, books that were denied by the administrator to be borrowed will be shown. At the third tab, books that the student has requested to borrow but has yet to receive an answer will be shown.
 &nbsp;
 
 
@@ -80,7 +80,7 @@ Each student in the school owns a profile. At the profile basic data of the user
 </dl>
 </dd>
 
-Each book has its own page. Here basic data about the books are shown. Data like: Title, Author, Language, how many available copies does library has, description of the book etc. At this page the student can request to borrow a book or to cancel a request he/she has send to the library. Below the page, there is a section called "Similar books", where the user can browse for books with similar content.
+Each book has its own page.  At this page the student can request to borrow a book or to cancel a request he/she has send to the library. Below the page, there is a section called "Similar books", where the user can browse for books with similar content.
 &nbsp;
 
 ### Settings page
@@ -99,7 +99,7 @@ Each book has its own page. Here basic data about the books are shown. Data like
 </dl>
 </dd>
 
-Settings page is divided in two main categories: Main settings and "others" settings. The first one consists of basic options for the user account. The user there can change his password, change the class he is part of at school, change username etc. At the "others" section user can log out of his account or delete his account permanently.
+Settings page is divided in two main categories: Main settings and "others" settings. 
 &nbsp;
 
 
@@ -108,19 +108,15 @@ Settings page is divided in two main categories: Main settings and "others" sett
 <dd>
 <dl>
 
-<img src="https://user-images.githubusercontent.com/17888328/29357732-de0b9e7a-8278-11e7-9424-656a2f83ed3b.jpg" alt="alt" height="350px" width="200px" >
-
 <img src="https://user-images.githubusercontent.com/17888328/29357731-de091b28-8278-11e7-836f-a328c8fdf66f.png" alt="alt" height="350px" width="200px" >
 
 </dl>
 </dd>
 
-About page gives basic data about the developers who contributed for the project.
 &nbsp;
 
 #### Hit me on:
 * [Facebook](https://www.facebook.com/tandisque)
-* [LinkedIn](https://www.linkedin.com/in/gabrielkuka)
 * [Google Plus](https://plus.google.com/u/0/100037293339835572316)
 * [Github](https://www.github.com/GabrielKuka)
 
