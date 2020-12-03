@@ -10,8 +10,6 @@
 
 <img src="https://user-images.githubusercontent.com/17888328/29356620-15dbdc56-8275-11e7-9bf4-8b1d21d95ca6.png" alt="alt" height="350px" width="200px" >
 
-User puts email and password associated with his/her library school account.
-
 &nbsp;
 
 
@@ -31,8 +29,6 @@ User puts email and password associated with his/her library school account.
 </dl>
 </dd>
 
-At the user's newsfeed available books of the library will be shown. Scrolling down will load even more books as the user browses. Special fragments are also shown to help the user find books quickly. Such fragments include "Recommended books", "Most searched books". On the left side user can swipe to show the navigation drawer where he/she can access other data like user's profile, settings, web version of the app etc. At the top of the page, there is a section with all the available categories the user can browse.
-
 &nbsp;
 
 ### Searching books and authors
@@ -47,7 +43,6 @@ At the user's newsfeed available books of the library will be shown. Scrolling d
 </dl>
 </dd>
 
-Users can search about books they like to check or even authors. Suggestions will pop up while the user types the name of the book/author.
 &nbsp;
 
 ### User profile
@@ -64,7 +59,6 @@ Users can search about books they like to check or even authors. Suggestions wil
 </dl>
 </dd>
 
-Each student in the school owns a profile. The profile page shows basic information like: Username, email, date of birth etc. The profile is composed of three main tabs: Borrowed books, denied books and requested books. At the first tab, all the books that user has borrowed will be shown. At the second tab, books that were denied by the administrator to be borrowed will be shown. At the third tab, books that the student has requested to borrow but has yet to receive an answer will be shown.
 &nbsp;
 
 
@@ -80,7 +74,7 @@ Each student in the school owns a profile. The profile page shows basic informat
 </dl>
 </dd>
 
-Each book has its own page.  At this page the student can request to borrow a book or to cancel a request he/she has send to the library. Below the page, there is a section called "Similar books", where the user can browse for books with similar content.
+
 &nbsp;
 
 ### Settings page
@@ -99,7 +93,6 @@ Each book has its own page.  At this page the student can request to borrow a bo
 </dl>
 </dd>
 
-Settings page is divided in two main categories: Main settings and "others" settings. 
 &nbsp;
 
 
@@ -112,16 +105,5 @@ Settings page is divided in two main categories: Main settings and "others" sett
 
 </dl>
 </dd>
-
-&nbsp;
-
-#### Hit me on:
-* [Facebook](https://www.facebook.com/tandisque)
-* [Google Plus](https://plus.google.com/u/0/100037293339835572316)
-* [Github](https://www.github.com/GabrielKuka)
-
-&nbsp;
-
-#### Email me at: gabrie.kuka@gmail.com
 
 
